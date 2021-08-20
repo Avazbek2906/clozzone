@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "Рубашка",
+        "brend": "Zara",
+        "category": "Рубашки",
+        "price": 100000,
+        "color": "blue",
+        "size": "XL",
+        "images": [
+            {
+                "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+            },
+            {
+                "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+            },
+            {
+                "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+            },
+            {
+                "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Рубашка",
+        "brend": "Zara",
+        "category": "Рубашки",
+        "price": 120000,
+        "color": "lavender",
+        "size": "XXL",
+        "images": [
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            },
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            },
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            },
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Рубашка",
+        "brend": "Zara",
+        "category": "Рубашки",
+        "price": 150000,
+        "color": "lightblue",
+        "size": "M",
+        "images": [
+            {
+                "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+            },
+            {
+                "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+            },
+            {
+                "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+            },
+            {
+                "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Рубашка",
+        "brend": "Zara",
+        "category": "Рубашки",
+        "price": 90000,
+        "color": "black",
+        "size": "XL",
+        "images": [
+            {
+                "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+            },
+            {
+                "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+            },
+            {
+                "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+            },
+            {
+                "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Рубашка",
+        "brend": "Zara",
+        "category": "Рубашки",
+        "price": 110000,
+        "color": "pink",
+        "size": "XXL",
+        "images": [
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            },
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            },
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            },
+            {
+                "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Рубашка",
+        "brend": "Zara",
+        "category": "Рубашки",
+        "price": 70000,
+        "color": "peru",
+        "size": "XL",
+        "images": [
+            {
+                "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+            },
+            {
+                "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+            },
+            {
+                "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+            },
+            {
+                "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Рубашка Regular fit",
+        "brend": "MASSIMO DUTTI",
+        "category": "Рубашки",
+        "price": 160000,
+        "color": "powderblue",
+        "size": "S",
+        "images": [
+            {
+                "img": "https://uzecom.com/uploads/product/034b1672359057e23bfc2aa76dc0367a.jpg"
+            },
+            {
+                "img": "https://uzecom.com/uploads/product/a0070a05405389e090f717a7191a334d.jpg"
+            },
+            {
+                "img": "https://uzecom.com/uploads/product/42ec004a2dc91403fed200f84724cc5d.jpg"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Рубашка",
+        "brend": "U.S. POLO",
+        "category": "Рубашки",
+        "price": 214000,
+        "color": "ivory",
+        "size": "XS",
+        "images": [
+            {
+                "img": "https://uzecom.com/uploads/product/64373699416b2a0ac7815e44e5131a19.jpg"
+            },
+            {
+                "img": "https://uzecom.com/uploads/product/a2b048c20ecb9e7c7606b473c71df918.jpg"
+            },
+            {
+                "img": "https://uzecom.com/uploads/product/639dad01c1ac18665e548d8f5ef726a5.jpg"
+            },
+            {
+                "img": "https://uzecom.com/uploads/product/07d62679ea0c10e85a65e71678899898.jpg"
+            }
+        ]
+    }
+]

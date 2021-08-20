@@ -1,0 +1,1370 @@
+[
+   {
+      "id": 1,
+      "count" : 1,
+      "name": "Рубашка",
+      "brend": "Zara",
+      "category": "Рубашки",
+      "price": 100000,
+      "color": "blue",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+         },
+         {
+            "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+         },
+         {
+            "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+         },
+         {
+            "img": "https://i.postimg.cc/sfthmyHs/cloth1.png"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "count" : 1,
+      "name": "Рубашка",
+      "brend": "Zara",
+      "category": "Рубашки",
+      "price": 120000,
+      "color": "lavender",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         },
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         },
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         },
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "count" : 1,
+      "name": "Рубашка",
+      "brend": "Zara",
+      "category": "Рубашки",
+      "price": 150000,
+      "color": "lightblue",
+      "size": "M",
+      "images": [
+         {
+            "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+         },
+         {
+            "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+         },
+         {
+            "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+         },
+         {
+            "img": "https://i.postimg.cc/3xh9L2f8/cloth3.png"
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "count" : 1,
+      "name": "Рубашка",
+      "brend": "Zara",
+      "category": "Рубашки",
+      "price": 90000,
+      "color": "black",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+         },
+         {
+            "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+         },
+         {
+            "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+         },
+         {
+            "img": "https://i.postimg.cc/mgZCzj6H/cloth4.png"
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "count" : 1,
+      "name": "Рубашка",
+      "brend": "Zara",
+      "category": "Рубашки",
+      "price": 110000,
+      "color": "pink",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         },
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         },
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         },
+         {
+            "img": "https://i.postimg.cc/43BcQ9qS/cloth2.png"
+         }
+      ]
+   },
+   {
+      "id": 6,
+      "count" : 1,
+      "name": "Рубашка",
+      "brend": "Zara",
+      "category": "Рубашки",
+      "price": 70000,
+      "color": "peru",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+         },
+         {
+            "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+         },
+         {
+            "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+         },
+         {
+            "img": "https://i.postimg.cc/pXCnH8XX/cloth6.png"
+         }
+      ]
+   },
+   {
+      "id": 7,
+      "count" : 1,
+      "name": "Рубашка Regular fit",
+      "brend": "MASSIMO DUTTI",
+      "category": "Рубашки",
+      "price": 160000,
+      "color": "powderblue",
+      "size": "S",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/034b1672359057e23bfc2aa76dc0367a.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a0070a05405389e090f717a7191a334d.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/42ec004a2dc91403fed200f84724cc5d.jpg"
+         }
+      ]
+   },
+   {
+      "id": 8,
+      "count" : 1,
+      "name": "Рубашка",
+      "brend": "U.S. POLO",
+      "category": "Рубашки",
+      "price": 214000,
+      "color": "ivory",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/64373699416b2a0ac7815e44e5131a19.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a2b048c20ecb9e7c7606b473c71df918.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/639dad01c1ac18665e548d8f5ef726a5.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/07d62679ea0c10e85a65e71678899898.jpg"
+         }
+      ]
+   },
+   {
+      "id": 9,
+      "count" : 1,
+      "name": "Свитшот",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 294000,
+      "color": "black",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/83987b0caea51d8d71a5a78fb523bc28.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/ec81d1120ae3eee607c2e59cc0bfaefc.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a36a6ee3672881ed3a079dfc8014f460.jpg"
+         }
+      ]
+   },
+   {
+      "id": 10,
+      "count" : 1,
+      "name": "Свитшот",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 282000,
+      "color": "lightgreen",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/9fed740701ca698d09d37194e0c22d74.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/016fe0c0a8dcf7e666cce679606cbc9c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/4d662510998a8c54b8e9d6cff5f82791.jpg"
+         }
+      ]
+   },
+   {
+      "id": 11,
+      "count" : 1,
+      "name": "Свитшот",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 290000,
+      "color": "tan",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/c4e2329836317529ed23058f0b7b96f6.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/7054543f401184d031a0481aeeddbe9c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/69cbf41424bd32d18e5cab7357385fff.jpg"
+         }
+      ]
+   },
+   {
+      "id": 12,
+      "count" : 1,
+      "name": "Свитшот",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 290000,
+      "color": "tan",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/c4e2329836317529ed23058f0b7b96f6.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/7054543f401184d031a0481aeeddbe9c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/69cbf41424bd32d18e5cab7357385fff.jpg"
+         }
+      ]
+   },
+   {
+      "id": 13,
+      "count" : 1,
+      "name": "Худи",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 374000,
+      "color": "indigo",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/f24f8dce0d1a892330bb593979db43a5.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/fd272433c53a332ead7dba91c13d9e2c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/9bc67dcc93f959d38f507cad40e3cb93.jpg"
+         }
+      ]
+   },
+   {
+      "id": 14,
+      "count" : 1,
+      "name": "Худи",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 424000,
+      "color": "darkslategray",
+      "size": "S",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/9eb53371fb886dd7135a2f16858db071.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/345eb5723f6c272efafc4462e0fc6dfc.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/e96e04ad7d5f0b13de437e2c6ee52380.jpg"
+         }
+      ]
+   },
+   {
+      "id": 15,
+      "count" : 1,
+      "name": "Свитшот",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 614000,
+      "color": "black",
+      "size": "S",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/dd4198bf2323ad629d519ec84b24faa4.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/62d4a9ffab36c2074e27efe8b963463a.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/f07b1b03599da4775c45a4e971f96bcd.jpg"
+         }
+      ]
+   },
+   {
+      "id": 16,
+      "count" : 1,
+      "name": "Свитшот",
+      "brend": "BERSHKA",
+      "category": "Свитшоты",
+      "price": 484000,
+      "color": "White",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/f7e9077d8eecf2eaf44146f2fa3e08e0.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/7d0d52d18e59426f2bdc29bccbd375c2.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/fc576a2831a8b59b645d3ca8c42a24e3.jpg"
+         }
+      ]
+   },
+   {
+      "id": 17,
+      "count" : 1,
+      "name": "Джинсы",
+      "brend": "BERSHKA",
+      "category": "Джинсы",
+      "price": 424000,
+      "color": "mediumturquoise",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/680f52d199c496646af8096e1dec9e68.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/3431a8c4815561fabfb4f23df1e275dc.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/6a5a7e59e99627e792886464b6a6e782.jpg"
+         }
+      ]
+   },
+   {
+      "id": 18,
+      "count" : 1,
+      "name": "Джинсы",
+      "brend": "BERSHKA",
+      "category": "Джинсы",
+      "price": 424900,
+      "color": "mediumslateblue",
+      "size": "X",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/1b4014c6e8b0978103369466ad8bb6ec.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/54f7362f28ec5a6a5594a842c807db88.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b9418a3b996cbcc0a7af03b74fc9f9c2.jpg"
+         }
+      ]
+   },
+   {
+      "id": 19,
+      "count" : 1,
+      "name": "Джинсы",
+      "brend": "BERSHKA",
+      "category": "Джинсы",
+      "price": 554000,
+      "color": "slateblue",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/288855c0a77fd78ee103122983f0c220.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/856cf18762156971b55f9e8c2bf24c9e.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/caff5ddf394889b462d777125d4232db.jpg"
+         }
+      ]
+   },
+   {
+      "id": 20,
+      "count" : 1,
+      "name": "Джинсы",
+      "brend": "BERSHKA",
+      "category": "Джинсы",
+      "price": 424000,
+      "color": "chocolate",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/b21af6aa477f330f54f93b5aa50dc7d0.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b93a803feaaa670cf090bb1efb828e5c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/4fea6f48d90dc23f3d873413e1d45ca5.jpg"
+         }
+      ]
+   },
+   {
+      "id": 21,
+      "count" : 1,
+      "name": "Джинсы",
+      "brend": "MASSIMO DUTTI",
+      "category": "Джинсы",
+      "price": 774000,
+      "color": "mistyrose",
+      "size": "S",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/abe9e1114a473fbde8c24bc3ceca6033.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/91a654388fa4302bdaad88ec3bbaac1f.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/81dc20a4f3c4a90bc26b3d71b9d39bd6.jpg"
+         }
+      ]
+   },
+   {
+      "id": 22,
+      "count" : 1,
+      "name": "Джинсы Regular fit",
+      "brend": "MASSIMO DUTTI",
+      "category": "Джинсы",
+      "price": 694000,
+      "color": "darkslategray",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/28899a6ac0c1fcaca868c9cac4c1e047.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/15301d9ae28ee14f2199247a69aaa9b9.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/c6ec4f91070bb4a914f4fdf0dd55edc9.jpg"
+         }
+      ]
+   },
+   {
+      "id": 23,
+      "count" : 1,
+      "name": "Джинсы",
+      "brend": "ZARA",
+      "category": "Джинсы",
+      "price": 474000,
+      "color": "steelblue",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/e2916fb64849ddcfa5584d2a760a97a2.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b1af51fa970ce01af53aa1e312d7ff5d.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/0599fa2e313b52449c5c771bbd0330f9.jpg"
+         }
+      ]
+   },
+   {
+      "id": 24,
+      "count" : 1,
+      "name": "Джинсы",
+      "brend": "BERSHKA",
+      "category": "Джинсы",
+      "price": 424000,
+      "color": " ",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/d97c2591ce1edc379a48c36297140849.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/eb6d448d596091249b15de2f6998bfd5.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/bb78ccafc5c45b8b2ae1e086d4e43c2f.jpg"
+         }
+      ]
+   },
+   {
+      "id": 25,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MANGO",
+      "category": "Платья",
+      "price": 504000,
+      "color": "brown",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/8bd414df3ffb4f073ee7f07caccb59d0.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/68ef6d34ce71b255e33d2893c78b5736.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a99ea895ef9cd27d748100990cbc3530.jpg"
+         }
+      ]
+   },
+   {
+      "id": 26,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MANGO",
+      "category": "Платья",
+      "price": 414000,
+      "color": "black",
+      "size": "s",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/7dff67cc66e79e79f3e8f0975d693739.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/56b00c3f2a5c50459ce07a9d4f404cda.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/7c8749682024abb0b39679fd8e2fcd55.jpg"
+         }
+      ]
+   },
+   {
+      "id": 27,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MANGO",
+      "category": "Платья",
+      "price": 494000,
+      "color": "darkseagreen",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/448b4afe2ac0d2d46d7fd6758683f184.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/26168b0207c5aa5e0f80a214f9fb7e7c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/3fb268da7cd6c6e6be809b42d33ca621.jpg"
+         }
+      ]
+   },
+   {
+      "id": 28,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MANGO",
+      "category": "Платья",
+      "price": 484000,
+      "color": "slateblue",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/08ae7cc2f5dc443cb525a8615f9acf1e.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/100472d059ae621615aa3d2d0213b7b4.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/cd554658fdcd8f36ed62de9fd244d453.jpg"
+         }
+      ]
+   },
+   {
+      "id": 29,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "ZARA",
+      "category": "Платья",
+      "price": 644000,
+      "color": "tan",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/331f6d7e5da430392e69760a0c6f8d85.webp"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/5e21912569c2103d570c55d2841e2efa.webp"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/5e21912569c2103d570c55d2841e2efa.webp"
+         }
+      ]
+   },
+   {
+      "id": 30,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MANGO",
+      "category": "Платья",
+      "price": 624000,
+      "color": "black",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/c15acb300d1196311b83c14aa40d9c38.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/9de2ceaf3a0d7633b092028eeccbbba8.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/e48535df4ae08564b01ef785a42efddd.jpg"
+         }
+      ]
+   },
+   {
+      "id": 31,
+      "count" : 1,
+      "name": "Кардиган",
+      "brend": "ZARA",
+      "category": "Платья",
+      "price": 504000,
+      "color": "tan",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/2c8187bfa61d1854be8be2ad2ca9d5c0.webp"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/9da3239aadf9b13c6112bc720b4c34b9.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/297fb255f0fffbd4d4afbcbb88b26f31.jpg"
+         }
+      ]
+   },
+   {
+      "id": 32,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "STRADIVARIUS",
+      "category": "Платья",
+      "price": 274000,
+      "color": "pink",
+      "size": "S",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/00aa2217275872bbabb25dad62759de6.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/fe3ebd6cd7cd0b70126a0a6fa6c400aa.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/5209a45229d9b1a5c9f5cbcac0400bb2.jpg"
+         }
+      ]
+   },
+   {
+      "id": 33,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 324000,
+      "color": "black",
+      "size": "S",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/454c926fbf7b7a5d04857eecf9029a83.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/928ea3e806da1a8ea4b9c95cdad54ff6.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b9adf7f58491750b8e46e1db779516c1.jpg"
+         }
+      ]
+   },
+   {
+      "id": 34,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 394000,
+      "color": "black",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/56344157a79d9f15fb70226df5be5bab.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/17b280fe6602645766eeb60223ec4a62.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/c639d352f7cc036f88df6aefbd68d7aa.jpg"
+         }
+      ]
+   },
+   {
+      "id": 35,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 974000,
+      "color": "white",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/e32d7dffa16d0daa6f4af12b3653c916.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/f3f2e22b03e9169d65648c4d296d9eda.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/89baeba0618e12682a6123fe7d6fb3ac.jpg"
+         }
+      ]
+   },
+   {
+      "id": 36,
+      "count" : 1,
+      "name": "Вышитый костюм",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 494000,
+      "color": "navajowhite",
+      "size": "X",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/d2a0e76d1d6c482d5e8041ac194814f8.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/024b55e73b30c7adb3da079404a7e561.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/ccb07d24e0056b508fa06538ef3716f6.jpg"
+         }
+      ]
+   },
+   {
+      "id": 37,
+      "count" : 1,
+      "name": "Костюм",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 504000,
+      "color": "slateblue",
+      "size": "S",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/63b97a7378db53eb0e9f994b5436bba3.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b6534ef057928e7bab23993191240c3b.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/aa52f21ffad0f4e2d0b23b8b9ba758ab.jpg"
+         }
+      ]
+   },
+   {
+      "id": 38,
+      "count" : 1,
+      "name": "Костюм",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 414000,
+      "color": "black",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/16c5ea22c39bf38cf9b5358cee6bc319.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/7a1f1971b3457a68632e68209da6f5d9.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/72ce4236cf40f0d7d09af97065df32f7.jpg"
+         }
+      ]
+   },
+   {
+      "id": 39,
+      "count" : 1,
+      "name": "Костюм",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 414000,
+      "color": "red",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/0ef060c05569afad295e749753703fd2.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/afd6d9027533c2a0a4dd47fa642a6ebb.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/7a58e81760f68362f41a61bef9892853.jpg"
+         }
+      ]
+   },
+   {
+      "id": 40,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "MODAENSAR",
+      "category": "Хиджаб",
+      "price": 454000,
+      "color": "moccasin",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/c3a45cd7327d6e74726ebb1e056e3ddc.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/0b5b67c3f1baa46c562d7a77a81638c5.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/bba37c93d81d58705b5298e0d2934986.jpg"
+         }
+      ]
+   },
+   {
+      "id": 41,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "MANGO",
+      "category": "Комбинезоны",
+      "price": 784000,
+      "color": "darkblue",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/9741ed609cd425faa23fad1e159a81ab.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/91f325779bd038d3f70c04cff5c22e82.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/c782596c80ed2fd800f2d6b9128ebd3f.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/730213c8181628a785be9d7a0a78f830.jpg"
+         }
+      ]
+   },
+   {
+      "id": 42,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "MANGO",
+      "category": "Комбинезоны",
+      "price": 634000,
+      "color": "dodgerblue",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/5f48cce880aaa56e55d5814456b2254f.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d308d16486481c816f96a9c781c0dd21.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/fd6bb74e4d7d9059ab2ec996b25d1854.jpg"
+         }
+      ]
+   },
+   {
+      "id": 43,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "PULL&BEAR",
+      "category": "Комбинезоны",
+      "price": 494000,
+      "color": "lightskyblue",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/72d5a35fc4f5213042fc5ea4755e426c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/7f97e2dd9a7055fe4ace4d7de54577e1.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d0fe47aec07849895ab97caffcc06339.jpg"
+         }
+      ]
+   },
+   {
+      "id": 44,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "PULL&BEAR",
+      "category": "Комбинезоны",
+      "price": 494000,
+      "color": "bisque",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/9a6a825a7115b68634180cd12ea38acd.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/69a5d4fe2a3442ed8e43223b48fe2459.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/e804ee72296459afb64c89242a7d6a02.jpg"
+         }
+      ]
+   },
+   {
+      "id": 45,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "MANGO",
+      "category": "Комбинезоны",
+      "price": 624000,
+      "color": "black",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/4fd7e5fc72236d5a0cd6495d2f584735.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/03b2d11bd5ee5523ef4fd1d3b904c15a.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/4d0532fa518f86b1a4581de0e299a4e2.jpg"
+         }
+      ]
+   },
+   {
+      "id": 46,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "STRADIVARIUS",
+      "category": "Комбинезоны",
+      "price": 424000,
+      "color": "lightblue",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/a3c4bbe720f4091681d81619de962c2d.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/06427e3ff4ec8de8ca6850f59a97951e.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a167342a99afdd92cbdb7717efd882b0.jpg"
+         }
+      ]
+   },
+   {
+      "id": 47,
+      "count" : 1,
+      "name": "Комбинезон из хлопка",
+      "brend": "BERSHKA",
+      "category": "Комбинезоны",
+      "price": 464000,
+      "color": "pink",
+      "size": "X",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/8a19aacbcc548c8c292f07afdac1bda7.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/ba22227da749570ece58826c1c8962b2.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/79779f2357fb14775466ff681ab8ef6a.jpg"
+         }
+      ]
+   },
+   {
+      "id": 48,
+      "count" : 1,
+      "name": "Комбинезон",
+      "brend": "PULL&BEAR",
+      "category": "Комбинезоны",
+      "price": 424000,
+      "color": "tan",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/8e91ebf28b17aeffd530959d981d08e6.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b2f29f2a4ca9c550ace703a44262927f.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d1cf116d67616b11e317c05c86f7ca17.jpg"
+         }
+      ]
+   },
+   {
+      "id": 49,
+      "count" : 1,
+      "name": "Футболка",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 189000,
+      "color": "mediumseagreen",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/a64fcb51d05d73e48cf614e17638722d.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/ad56511fd33ddb38ba1837b6507891a2.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d69d3b7751dc78ba78513376ba5b0df6.jpg"
+         }
+      ]
+   },
+   {
+      "id": 50,
+      "count" : 1,
+      "name": "Футболка Топ",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 109000,
+      "color": "black",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/8f1674756472d7755955d0df678295c2.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/8c660bc7f58564365bbcc4d840d8a201.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a6713fd0c37c9713411d3897e0ffe6d2.jpg"
+         }
+      ]
+   },
+   {
+      "id": 51,
+      "count" : 1,
+      "name": "Футболка Топ",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 109000,
+      "color": "lightsteelblue",
+      "size": "M",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/df1695305e0de3abdba345b2b256b213.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/2572c310d72fa1ad0c681e748449abb2.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/0beb516d48612a510ab6e55b832cea75.jpg"
+         }
+      ]
+   },
+   {
+      "id": 52,
+      "count" : 1,
+      "name": "Футболка",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 139000,
+      "color": "grey",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/031032df96664ff0c7c5875631bc4c2e.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d2efb46abc1f5aee5ffcb973dc8adcb0.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d2f55c679999fa2d5823e5ea4d91b614.jpg"
+         }
+      ]
+   },
+   {
+      "id": 53,
+      "count" : 1,
+      "name": "Футболка",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 139000,
+      "color": "black",
+      "size": "M",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/58cd3b56e919669361216180a4655fc0.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/642d6f87490abdec6c37cfa20337728f.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/ae216a1c556474e0f5897300ae86170f.jpg"
+         }
+      ]
+   },
+   {
+      "id": 54,
+      "count" : 1,
+      "name": "Футболка",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 99000,
+      "color": "paleturquoise",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/1af929c5ac61cbb98b8ab2dfcd87e7a8.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/9a541823dcce7f7c8d333c1af95da68c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b35ccd195ef876e2bc67c5db26721df5.jpg"
+         }
+      ]
+   },
+   {
+      "id": 55,
+      "count" : 1,
+      "name": "Футболка",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 139000,
+      "color": "lightgreen",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/c0330efe2a7f5cd2b56eeed9b42a8790.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/f17828b3b9f2f147defa82c00b6be321.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/302c15aae069f55657f1311d8f836b8a.jpg"
+         }
+      ]
+   },
+   {
+      "id": 56,
+      "count" : 1,
+      "name": "Футболка",
+      "brend": "ZARA",
+      "category": "Футболки",
+      "price": 99000,
+      "color": "red",
+      "size": "XS",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/525f27971a821e8bf3b84ff8a001ccfe.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/59df1eb22b7ca51fd27c52c1804e263a.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/b5f49d663ef8d5593f6202bb7d45d484.jpg"
+         }
+      ]
+   },
+   {
+      "id": 57,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "KOTON KIDS",
+      "category": "платья",
+      "price": 209000,
+      "color": "lightgreen",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/84130690aa0823f3690949c5657a557f.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a4c3d85ddc725fb4ecefc40b09368bd4.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/a74e2a8d80c15298009770f50a5596e2.jpg"
+         }
+      ]
+   },
+   {
+      "id": 58,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "U.S. POLO",
+      "category": "платья",
+      "price": 369000,
+      "color": "mediumaquamarine",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/181d9f56c0c2016a7a2b23c0b8ed6e54.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/95ed6d88bcf12e2d5e9ad40aaf4fa517.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/54419dd07c2cffa5426766083e19a22f.jpg"
+         }
+      ]
+   },
+   {
+      "id": 59,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "U.S. POLO",
+      "category": "платья",
+      "price": 479000,
+      "color": "steelblue",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/6822b1857f8f3a5cb1f2aa6a5e776025.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/01cab649d43c51c3ee505652d5e67233.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/004e8e6c27ecb3bf1b24119a59318d4a.jpg"
+         }
+      ]
+   },
+   {
+      "id": 60,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "KOTON KIDS",
+      "category": "платья",
+      "price": 59000,
+      "color": "violet",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/b0898bcb233361a7e748c136c50a88ee.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/ea144ed5143d8f8c3196977e9a82e709.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/24caf2f3491e820734482e86ad132c6a.jpg"
+         }
+      ]
+   },
+   {
+      "id": 61,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "KOTON KIDS",
+      "category": "платья",
+      "price": 79000,
+      "color": "hotpink",
+      "size": "L",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/99a5f9aedec8aca359d484d936557967.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d5b450c3190a9cda73c8c278929f753c.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/69a89e2680d3423640601ed09564b7c3.jpg"
+         }
+      ]
+   },
+   {
+      "id": 62,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "KOTON KIDS",
+      "category": "платья",
+      "price": 79000,
+      "color": "yellow",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/5061fe1955a2a7c4fb34188b8839646a.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/d8594d03ff5c0c4db5203a111e49b083.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/87fb97b58e6a453795585a315341bd71.jpg"
+         }
+      ]
+   },
+   {
+      "id": 63,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "KOTON KIDS",
+      "category": "платья",
+      "price": 79000,
+      "color": "paleturquoise",
+      "size": "XL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/939dce9b00024685cb6b27742cd6e66e.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/6eca355787d9d64bc9af1c544e1baea3.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/ef3a3a1ff46495b85edcd0b7a99847a1.jpg"
+         }
+      ]
+   },
+   {
+      "id": 64,
+      "count" : 1,
+      "name": "Платье",
+      "brend": "KOTON KIDS",
+      "category": "платья",
+      "price": 69000,
+      "color": "turquoise",
+      "size": "XXL",
+      "images": [
+         {
+            "img": "https://uzecom.com/uploads/product/689fb86fd6e7b10b584e18010f745107.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/379dd9d3cd99b4ef95523b794fce3500.jpg"
+         },
+         {
+            "img": "https://uzecom.com/uploads/product/8733de14d900d10fdc5e921c263003d0.jpg"
+         }
+      ]
+   }
+]

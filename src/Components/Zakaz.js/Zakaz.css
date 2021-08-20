@@ -1,0 +1,182 @@
+.zakaz_header__name{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 100%;
+    margin-top: 50px;
+}
+.zakaz_content{
+    width: 865px;
+}
+.zakaz_content__header{
+    width: 100%;
+    height: 50px;
+    background-color: #E5E5E5;
+}
+.zakaz_content__header ul{
+    padding: 17px 78px 17px 83px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.zakaz_content__header ul li{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 100%;
+    color: #666666;
+}
+.zakaz_content__main{
+    width: 100%;
+}
+.zakaz_content__div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.zakaz_content__img{
+    width: 74px;
+}
+.zakaz_content__img img{
+    width: 100%;
+    object-fit: cover;
+}
+.zakaz_content__name{
+    width: 150px;
+    margin-left: 12px;
+    margin-right: 50px;
+}
+.zakaz_content__name h3{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 100%;
+}
+.zakaz_content__name p{
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 100%;
+}
+.zakaz_content__count .cabinet_content__count{
+    width: 150px;
+    height: 40px;
+}
+.zakaz_content__count .cabinet_count__lose {
+    height: 40px;
+}
+.zakaz_content__count .cabinet_count__result{
+    height: 40px;
+}
+.zakaz_content__price{
+    margin-left: 30px;
+    margin-right: 35px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 100%;
+}
+.zakaz_content__color .collection_circle{
+    margin: 0;
+}
+.zakaz_content_size{
+    margin-left: 95px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+}
+.zakaz_content_size p{
+    margin-bottom: 0;
+}
+
+.oform_section{
+    overflow: auto;
+}
+.oform_section .zakaz_content{
+    width: 1160px;
+    padding-bottom: 100px;
+}
+.oform_section .zakaz_content__div{
+    width: 100%;
+    height: 150px;
+    border: 1px dashed #B3B3B3;
+}
+.oform_section .zakaz_content__img{
+    width: 107px;
+    margin-left: 10px;
+}
+.oform_section .zakaz_content__name{
+    width: 237px;
+}
+.oform_section .zakaz_content__name h3{
+    font-size: 18px;
+}
+.oform_section .zakaz_content__name p{
+    font-size: 16px;
+}
+.oform_section  .zakaz_content__count .cabinet_content__count{
+    width: 190px;
+    height: 50px;
+}
+.oform_section  .zakaz_content__count .cabinet_count__lose {
+    height: 50px;
+}
+.oform_section  .zakaz_content__count .cabinet_count__result{
+    height: 50px;
+}
+.oform_section .zakaz_content__price{
+    font-size: 30px;
+}
+.oform_section .zakaz_content__color{
+    margin-left: 70px;
+}
+.oform_section .zakaz_content_size{
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+@media only screen and ( max-width: 1300px ){
+    .myzakaz_content {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .myzakaz_left{
+        margin-bottom: 50px;
+        padding-bottom: 25px;
+    }
+    .myzakaz_right{
+        width: 325px !important;
+    }
+}
+@media only screen and ( max-width: 1100px ){
+    .zakaz_page__content {
+        display: flex;
+        flex-direction: column;
+    }
+    .zakaz_see__button {
+        width: 204px;
+        height: 38px;
+        margin-left: 0px !important;
+        margin-top: 20px;
+    }
+}
+@media only screen and ( max-width: 650px ){
+    .oform_section .zakaz_content {
+        width: 1160px;
+        padding-bottom: 20px;
+    }
+    .dostavka_section{
+        margin-top: 70px;
+    }
+    .home_brend__header p {
+        font-size: 26px !important;
+        line-height: 130%;
+        margin-bottom: -35px;
+        font-weight: bold !important;
+    }
+    .zakaz_header__name {
+        font-size: 21px;
+    }
+}
+@media only screen and ( max-width: 350px ){ 
+    .myzakaz_right{
+        width: 255px !important;
+    }
+}
